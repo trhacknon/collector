@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/thenurhabib/collector"><img src="./img/logo.png" alt="collector"></a>
+  <a href="https://github.com/trhacknon/collector"><img src="./img/logo.png" alt="collector"></a>
   <br>
   collector
   <br>
@@ -9,16 +9,16 @@
 <h4 align="center">Collect XSS vulnerable parameters from entire domain.</h4>
 
 <p align="center">
-  <a href="https://github.com/thenurhabib/collector/releases">
-    <img src="https://img.shields.io/github/release/thenurhabib/collector.svg">
+  <a href="https://github.com/trhacknon/collector/releases">
+    <img src="https://img.shields.io/github/release/trhacknon/collector.svg">
   </a>
  
-  <a href="https://github.com/thenurhabib/collector/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues-closed-raw/thenurhabib/collector.svg">
+  <a href="https://github.com/trhacknon/collector/issues?q=is%3Aissue+is%3Aclosed">
+      <img src="https://img.shields.io/github/issues-closed-raw/trhacknon/collector.svg">
   </a>
   
-  <a href="https://github.com/thenurhabib/collector/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/thenurhabib/collector">
+  <a href="https://github.com/trhacknon/collector/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/trhacknon/collector">
   </a>
   
 
@@ -37,7 +37,7 @@
  | (_| (_) | | |  __/ (__| || (_) | |   
   \___\___/|_|_|\___|\___|\__\___/|_| 1.0.0
 
-                          @thenurhabib 
+                          @trhacknon 
 
 ```
 
@@ -61,7 +61,7 @@ collector is An Intelligent Automated tool used to collect every vulnerable para
 ### Installation
 
 ```bash
-git clone https://www.github.com/thenurhabib/collector
+git clone https://www.github.com/trhacknon/collector
 cd collector
 pip install -r requirements.txt
 python3 collector.py -h
@@ -110,12 +110,12 @@ options:
 
 You can contribute in following ways:
 
-- [Report bugs & add issues](https://github.com/thenurhabib/collector/issues/new)
+- [Report bugs & add issues](https://github.com/trhacknon/collector/issues/new)
 - Search for new vulnerability
 - Develop plugins
 - Searching Exploits
 - Give suggestions **(Ideas)** to make it better
 
-Do you want to have a conversation in private? email me : thenurhabib@gmail.com
+Do you want to have a conversation in private? email me : jeremydiliotti@gmail.com
 
-***collector*** is licensed under [GPL-3.0 License](https://github.com/thenurhabib/collector/blob/master/LICENSE)
+***collector*** is licensed under [GPL-3.0 License](https://github.com/trhacknon/collector/blob/master/LICENSE)
