@@ -1,6 +1,6 @@
 __Name__ = "Collector"
 __Description__ = "Collect XSS vulnerable parameters from entire domain."
-__Author__ = "Md. Nur Habib"
+__Author__ = "trhacknon"
 __Version__ = "1.0.0"
 
 # Import mdules
